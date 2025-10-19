@@ -1,0 +1,10 @@
+Flask
+pandas
+nltk
+spacy
+pdfplumber
+python-docx
+python-dotenv
+scikit-learn
+beautifulsoup4
+lxml
